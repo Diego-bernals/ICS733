@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+plotly
+dash
+scikit-learn
+nbformat>=4.2.0
